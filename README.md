@@ -8,7 +8,7 @@ Basic Showcase > Satellite Imagery Annotation
 
 2) Build a Jupyter Notebook App
 
-3) ..iterate
+3) ..iterate / make a better app
 
 
 My App should allow the user for a single image upload.

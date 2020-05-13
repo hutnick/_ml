@@ -17,3 +17,11 @@ My App should allow the user for a single image upload.
 
 If positive, a annotation should be performed and plotted w/ ev. download option.
 
+
+
+## _
+
+# 1 Classification
+
+# 2 Segmentation
+>> 3_3_big.ipynb
